@@ -1,0 +1,32 @@
+Chicken,HotAndSpicyChicken,37
+Chicken,TenderChicken,37
+Burger,ZingerBurger,59
+Burger,KrispyFishBurger,59
+Burger,Twister,65
+Rice,SpicyFishRice,65
+Rice,SpicyLemonRice,59
+Rice,SpicyChickenRice,59
+Rice,SpicyRoastedChickenRice,59
+Rice,Rice,15
+Sides,Coleslaw R,29
+Sides,Coleslaw L,42
+Sides,FrenchFries R,25
+Sides,FrenchFries L,45
+Sides,FrenchFries J,25
+Sides,MashedPotato R,29
+Sides,MashedPotato L,42
+Sides,CornSalad R,29
+Sides,CornSalad L,42
+SweetSnacks,EggTart 1,20
+SweetSnacks,EggTart 2 ,40
+SweetSnacks,EggTart 6 ,120
+SavorySnacks,TheBiteZ,35
+SavorySnacks,WingZZabb 2,31
+SavorySnacks,WingZZabb 3,46
+SavorySnacks,Nuggets 6,65
+SavorySnacks,Charger,29
+SavorySnacks,CrispyStrips 2,31
+SavorySnacks,FishFinger 3,55
+SavorySnacks,ShrimpDonut,31
+Drinks,Pepsi 550ml,25
+Drinks,Pepsi 1.45L,39
